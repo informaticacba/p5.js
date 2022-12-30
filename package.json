@@ -74,7 +74,7 @@
     "libtess": "^1.2.2",
     "lint-staged": "^4.3.0",
     "marked": "^0.7.0",
-    "mocha": "^6.2.2",
+    "mocha": "^10.2.0",
     "np": "^5.2.1",
     "omggif": "^1.0.10",
     "open": "^7.0.3",
@@ -83,7 +83,7 @@
     "promise-map-series": "^0.2.3",
     "puppeteer": "^5.5.0",
     "regenerator-runtime": "^0.13.3",
-    "release-it": "^12.6.2",
+    "release-it": "^15.6.0",
     "request": "^2.88.0",
     "simple-git": "^1.132.0",
     "whatwg-fetch": "^2.0.4"
